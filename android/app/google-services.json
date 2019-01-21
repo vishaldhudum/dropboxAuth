@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "682823335381",
+    "firebase_url": "https://dropbox-auth.firebaseio.com",
+    "project_id": "dropbox-auth",
+    "storage_bucket": "dropbox-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682823335381:android:c1698d66b725fc68",
+        "android_client_info": {
+          "package_name": "com.example.dropboxauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682823335381-iba20i3fst8298mrn5c1ov052sg40v2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dropboxauth",
+            "certificate_hash": "18f8f502f0f7fc7680810cbc7d841fbce2a7c799"
+          }
+        },
+        {
+          "client_id": "682823335381-39ss4pnhhu4aqisn0r9c13p210btav53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZ6hrU0qST5jU0UHGFd8DsxwOBbXOc9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682823335381-39ss4pnhhu4aqisn0r9c13p210btav53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
