@@ -40,6 +40,8 @@
         
           final simpleAuth.DropboxApi dropboxApi = new simpleAuth.DropboxApi(
             "dropbox", "txuseickomozz9q", "aa7qrc3z8h1iz0v", "https://dropboxauth.page.link/dropboxauth");
+            // "dropbox", "txuseickomozz9q", "aa7qrc3z8h1iz0v", "https://myAwesomeApp12345");
+            // "dropbox", "txuseickomozz9q", "aa7qrc3z8h1iz0v", "http://localhost");
         
           @override
           void initState() {
@@ -109,7 +111,7 @@
                     leading: Icon(Icons.launch),
                     title: Text('Deep Link'),
                     onTap: () async {
-                      await launch("https://dropboxauth.page.link/dropboxauth");
+                      await launch("https://myAwesomeApp12345");
                     },
                   ),
                 ],

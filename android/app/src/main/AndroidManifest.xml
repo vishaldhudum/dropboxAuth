@@ -40,7 +40,9 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="com.googleusercontent.apps.682823335381-iba20i3fst8298mrn5c1ov052sg40v2g" />
+                <data android:scheme="dropboxauth.page.link/dropboxauth" />
+                <!-- <data android:scheme="myAwesomeApp12345" /> -->
+                <!-- <data android:scheme="localhost" /> -->
             </intent-filter>
         </activity>
     </application>
